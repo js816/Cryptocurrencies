@@ -14,7 +14,7 @@ Before unsupervised machine learning can be used, the data must be transformed t
 
 ## Feature reduction
 
-After performing the above preprocessing, our data had 98 columns.  To enhance the efficiency of our model and provide easier visualization of the data, those features were reduced using Principal Component Analysis).  We reduced the data to 3 principal components (PC1, PC2, and PC3).
+After performing the above preprocessing, our data had 98 columns.  To enhance the efficiency of our model and provide easier visualization of the data, those features were reduced using Principal Component Analysis (PCA).  We reduced the data to 3 principal components (PC1, PC2, and PC3).
 
 
 ## Clustering
